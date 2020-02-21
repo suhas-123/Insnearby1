@@ -5,9 +5,9 @@ var url = require('url');
 
 var dataUrl = 'http://nbibwebnew.ap-south-1.elasticbeanstalk.com/rest';//Backend
 
-// var homeUrl = 'http://bancaedge.ap-south-1.elasticbeanstalk.com';//FE 
+ var homeUrl = 'http://bancaedge.ap-south-1.elasticbeanstalk.com';//FE 
 
-var homeUrl = 'http://localhost:8080';
+// var homeUrl = 'http://localhost:8080';
 
 var authKeys = {"accesskey":"NBIB","secretkey":"NBIB"};
 
@@ -55,7 +55,6 @@ exports.loginAPI = (req, res, next) => {
       json: true
       }).pipe(res);
       
-   
   };  
 
   exports.productAPI = (req, res, next) => {

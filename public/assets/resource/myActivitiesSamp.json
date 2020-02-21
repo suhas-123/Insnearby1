@@ -1,0 +1,59 @@
+{
+    "products":[
+            {
+                "Activityid":"NBT1234",
+                "CreatedTimstamp":"2020-02-17  04:36:24",
+                "UpdatedTimstamp":"2020-02-17  04:36:24",
+                "Customer_id":"7259868777",
+                "Customer_name":"John Doe",
+                "LOB":"Health",
+                "Quote_link": "hyperLink",
+                "InsurerName":"Bharati axa",
+                "ProposalLink":"hyperLink",
+                "Proposal_id":"hyperLink",
+                "Payment_satatus":"Success"
+            },
+            {
+                "Activity_id":"NBT32323",
+                "Created_timstamp":"2020-02-17  04:36:24",
+                "Updated_timstamp":"2020-02-17  04:36:24",
+                "Customer_id":"7259868777",
+                "Customer_name":"John Doe",
+                "LOB":"Health",
+                "Quote_link": "hyperLink",
+                "Insurer_name":"Bharati axa",
+                "Proposal_link":"hyperLink",
+                "Proposal_id":"hyperLink",
+                "Payment_satatus":"Success"
+            },
+            {
+                "Activityid":"NBT2323",
+                "CreatedTimstamp":"2020-02-17  04:36:24",
+                "UpdatedTimstamp":"2020-02-17  04:36:24",
+                "Customer_id":"7259868777",
+                "Customer_name":"John Doe",
+                "LOB":"Health",
+                "Quote_link": "hyperLink",
+                "InsurerName":"Bharati axa",
+                "ProposalLink":"hyperLink",
+                "Proposal_id":"hyperLink",
+                "Payment_satatus":"Success"
+            },
+            {
+                "Activity_id":"NBT32323",
+                "Created_timstamp":"2020-02-17  04:36:24",
+                "Updated_timstamp":"2020-02-17  04:36:24",
+                "Customer_id":"7259868777",
+                "Customer_name":"John Doe",
+                "LOB":"Health",
+                "Quote_link": "hyperLink",
+                "Insurer_name":"Bharati axa",
+                "Proposal_link":"hyperLink",
+                "Proposal_id":"hyperLink",
+                "Payment_satatus":"Success"
+            }
+    
+            
+           
+          ]
+    }
