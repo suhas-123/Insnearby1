@@ -1,0 +1,86 @@
+{
+"products":[
+        {
+          "name": "Car Insurance",
+          "img_url": "../../../assets/images/Car_Insurance_ICON_og.svg",
+          "img_url_cross": "../../../assets/images/Car_Insurance_ICON_cross.svg"
+
+        },
+        {
+          "name": "Health Hospitalisation",
+          "img_url": "../../../assets/images/Health_Hospi_ICON.svg",
+          "img_url_cross": "../../../assets/images/Health_Hospi_ICON_cross.svg"
+        },
+        {
+          "name": "Bike Insurance",
+          "img_url": "../../../assets/images/Protection_ICON.svg",
+          "img_url_cross": "../../../assets/images/Protection_ICON_cross.svg"
+        }
+      ],
+
+"all-products":[
+        {
+          "name": "Car Insurance",
+          "img_url": "../../../assets/images/Car_Insurance_ICON_og.svg",
+          "img_url_cross": "../../../assets/images/Car_Insurance_ICON_cross.svg"
+
+        },
+        {
+          "name": "Health Hospitalisation",
+          "img_url": "../../../assets/images/Health_Hospi_ICON.svg",
+          "img_url_cross": "../../../assets/images/Health_Hospi_ICON_cross.svg"
+        },
+        {
+          "name": "Home Insurance",
+          "img_url": "../../../assets/images/Home_Insurance_ICON_og.svg",
+          "img_url_cross": "../../../assets/images/Home_Insurance_ICON.svg"
+
+        },
+        {
+          "name": "Protection",
+          "img_url": "../../../assets/images/Protection_ICON.svg",
+          "img_url_cross": "../../../assets/images/Protection_ICON_cross.svg"
+        },
+        {
+          "name": "Saving Unit Linked",
+          "img_url": "../../../assets/images/Saving_Unit_Linked_ICON_og.svg",
+          "img_url_cross": "../../../assets/images/Saving_Unit_Linked_ICON.svg"
+
+        },
+        {
+          "name": "Saving Traditional",
+          "img_url": "../../../assets/images/Savings Traditional_ICON.svg",
+          "img_url_cross": "../../../assets/images/Savings Traditional_ICON_cross.svg"
+
+        },
+        {
+          "name": "Critical Illness",
+          "img_url": "../../../assets/images/Critical_illness_ICON_og.svg",
+          "img_url_cross": "../../../assets/images/Critical_illness_ICON.svg"
+
+        },
+        {
+          "name": "Regular Income",
+          "img_url": "../../../assets/images/Regular_Income_ICON.svg",
+          "img_url_cross": "../../../assets/images/Regular_Income_ICON_cross.svg"
+
+        },
+        {
+          "name": "Child Education",
+          "img_url": "../../../assets/images/Child_Education_ICON_og.svg",
+          "img_url_cross": "../../../assets/images/Child_Education_ICON.svg"
+
+        },        
+        {
+          "name": "Annuity Plan",
+          "img_url": "../../../assets/images/Savings Traditional_ICON.svg",
+          "img_url_cross": "../../../assets/images/Savings Traditional_ICON_cross.svg"
+        },
+        {"name": "Travel Insurance",
+          "img_url": "../../../assets/images/travel-insurance.svg",
+          "img_url_cross": "../../../assets/images/travel-insurance.svg"
+
+        }
+      ]
+
+}
